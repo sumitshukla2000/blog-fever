@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "HTML",
+      "author": "Sumit",
+      "blog": "HTML is Hyper text markup language"
+    },
+    {
+      "id": "2",
+      "title": "CSS",
+      "author": "Prince",
+      "blog": "HTML is Hyper text markup language"
+    },
+    {
+      "id": "1728152640912",
+      "title": "xml",
+      "author": "Sumit",
+      "blog": "XML stands for extensible markup language\n"
+    },
+    {
+      "id": "1728152640982",
+      "title": "xml",
+      "author": "Sumit",
+      "blog": "XML stands for extensible markup language\n"
+    }
+  ]
+}
